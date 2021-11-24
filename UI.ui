@@ -14,11 +14,11 @@
    <string>Разные круги</string>
   </property>
   <widget class="QWidget" name="centralwidget">
-   <widget class="QPushButton" name="pushButton">
+   <widget class="QPushButton" name="btn">
     <property name="geometry">
      <rect>
       <x>330</x>
-      <y>510</y>
+      <y>520</y>
       <width>75</width>
       <height>23</height>
      </rect>
